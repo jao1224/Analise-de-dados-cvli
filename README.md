@@ -3,7 +3,7 @@
 ###
 
 
-![image]("https://github.com/jao1224/Analise-de-dados-cvli/blob/54a1f68ebceeb52e012d417f02b0e7af44b8b0fe/Captura%20de%20tela%202025-01-11%20171636.png")
+![Descrição da Imagem](https://github.com/jao1224/Analise-de-dados-cvli/blob/a3e621a00c02ecccb27bcffe33be36d0605cd410/Captura%20de%20tela%202025-01-11%20171636.png)
 
 
 ###
