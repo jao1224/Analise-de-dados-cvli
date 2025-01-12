@@ -12,17 +12,15 @@
 ###
 <p align="left">Tendências anuais de criminalidade</p>
 
-<div align="center">
-  <img height="200" src="C:\Users\Windows\Pictures\Screenshots\Captura de tela 2025-01-11 173738.png"  />
-</div>
+![Descrição da Imagem](https://github.com/jao1224/Analise-de-dados-cvli/blob/c9f8ca2dcd3ff113bacce741452c7cca1e014158/Captura%20de%20tela%202025-01-11%20173535.png)
 
 ###
 
 ###
 <p align="left">Tendências mensais de criminalidade</p>
 
-<div align="center">
-  <img height="200" src="C:\Users\Windows\Pictures\Screenshots\Captura de tela 2025-01-11 173535.png"  />
-</div>
+
+ 
+
 
 ###
