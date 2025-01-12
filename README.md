@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
- height="200" src="![Captura de tela 2025-01-11 171636](https://github.com/user-attachments/assets/61255fac-36e4-444e-a2fb-d0eee1ddbded)
+![Captura de tela 2025-01-11 171636](https://github.com/user-attachments/assets/61255fac-36e4-444e-a2fb-d0eee1ddbded)
 </div>
 
 ###
