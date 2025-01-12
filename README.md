@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-![Captura de tela 2025-01-11 171636](https://github.com/user-attachments/assets/61255fac-36e4-444e-a2fb-d0eee1ddbded)
+[![Captura de tela 2025-01-11 171636](https://github.com/user-attachments/assets/61255fac-36e4-444e-a2fb-d0eee1ddbded)](https://github.com/jao1224/Analise-de-dados-cvli/issues/2#issue-2782570480)
 </div>
 
 ###
