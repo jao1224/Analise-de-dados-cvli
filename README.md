@@ -12,6 +12,7 @@
 ###
 <p align="left">Tendências anuais de criminalidade</p>
 
+![Descrição da Imagem](https://github.com/jao1224/Analise-de-dados-cvli/blob/a4f3912939a29177eaae101b4243952bc5b285a3/Captura%20de%20tela%202025-01-11%20173738.png)
 
 
 ###
